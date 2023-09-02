@@ -2,8 +2,9 @@
 ## Indice_de_Collatz
 <h3> La conjetura o índice de Collatz es sencilla de comprender pero difícil de demostrar ya que menciona que partiendo de cualquier número entero positivo n>0 : </h3>
     <h4> Caso 1: Si n es par lo dividimos entre 2 </h4>
-    <h4> Caso 2: Si n es impar multiplicamos por 3 y sumamos 1 
-    Repitiendo secuencialmente estos pasos y siempre llegaremos a 1 </h4>
+    <h4> Caso 2: Si n es impar multiplicamos por 3 y sumamos 1 </h4>
+        <br>
+    <h4> Repitiendo secuencialmente estos pasos y siempre llegaremos a 1 </h4>
     
  <h4> Es una función cuyo dominio y codominio son los números naturales </h4>
       <p align="center">
